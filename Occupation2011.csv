@@ -1,0 +1,91 @@
+Regions Code,Regions,Occupation (current) (10 categories) Code,Occupations,Observation
+E12000001,North East,1,"1. Managers, directors and senior officials",97055
+E12000001,North East,2,2. Professional occupations,173805
+E12000001,North East,3,3. Associate professional and technical occupations,120054
+E12000001,North East,4,4. Administrative and secretarial occupations,136129
+E12000001,North East,5,5. Skilled trades occupations,131379
+E12000001,North East,6,"6. Caring, leisure and other service occupations",115450
+E12000001,North East,7,7. Sales and customer service occupations,117951
+E12000001,North East,8,"8. Process, plant and machine operatives",94842
+E12000001,North East,9,9. Elementary occupations,137352
+E12000002,North West,1,"1. Managers, directors and senior officials",317988
+E12000002,North West,2,2. Professional occupations,528482
+E12000002,North West,3,3. Associate professional and technical occupations,367580
+E12000002,North West,4,4. Administrative and secretarial occupations,381430
+E12000002,North West,5,5. Skilled trades occupations,362564
+E12000002,North West,6,"6. Caring, leisure and other service occupations",326059
+E12000002,North West,7,7. Sales and customer service occupations,305619
+E12000002,North West,8,"8. Process, plant and machine operatives",259572
+E12000002,North West,9,9. Elementary occupations,375407
+E12000003,Yorkshire and The Humber,1,"1. Managers, directors and senior officials",239671
+E12000003,Yorkshire and The Humber,2,2. Professional occupations,368494
+E12000003,Yorkshire and The Humber,3,3. Associate professional and technical occupations,276495
+E12000003,Yorkshire and The Humber,4,4. Administrative and secretarial occupations,267220
+E12000003,Yorkshire and The Humber,5,5. Skilled trades occupations,296427
+E12000003,Yorkshire and The Humber,6,"6. Caring, leisure and other service occupations",233372
+E12000003,Yorkshire and The Humber,7,7. Sales and customer service occupations,223296
+E12000003,Yorkshire and The Humber,8,"8. Process, plant and machine operatives",212354
+E12000003,Yorkshire and The Humber,9,9. Elementary occupations,300445
+E12000004,East Midlands,1,"1. Managers, directors and senior officials",211205
+E12000004,East Midlands,2,2. Professional occupations,301836
+E12000004,East Midlands,3,3. Associate professional and technical occupations,223575
+E12000004,East Midlands,4,4. Administrative and secretarial occupations,222091
+E12000004,East Midlands,5,5. Skilled trades occupations,255516
+E12000004,East Midlands,6,"6. Caring, leisure and other service occupations",198979
+E12000004,East Midlands,7,7. Sales and customer service occupations,173619
+E12000004,East Midlands,8,"8. Process, plant and machine operatives",197635
+E12000004,East Midlands,9,9. Elementary occupations,272890
+E12000005,West Midlands,1,"1. Managers, directors and senior officials",254317
+E12000005,West Midlands,2,2. Professional occupations,400700
+E12000005,West Midlands,3,3. Associate professional and technical occupations,278012
+E12000005,West Midlands,4,4. Administrative and secretarial occupations,288013
+E12000005,West Midlands,5,5. Skilled trades occupations,306898
+E12000005,West Midlands,6,"6. Caring, leisure and other service occupations",240619
+E12000005,West Midlands,7,7. Sales and customer service occupations,215596
+E12000005,West Midlands,8,"8. Process, plant and machine operatives",218943
+E12000005,West Midlands,9,9. Elementary occupations,312650
+E12000006,East of England,1,"1. Managers, directors and senior officials",287450
+E12000006,East of England,2,2. Professional occupations,428500
+E12000006,East of England,3,3. Associate professional and technical occupations,314066
+E12000006,East of England,4,4. Administrative and secretarial occupations,303080
+E12000006,East of England,5,5. Skilled trades occupations,331950
+E12000006,East of England,6,"6. Caring, leisure and other service occupations",260882
+E12000006,East of England,7,7. Sales and customer service occupations,223706
+E12000006,East of England,8,"8. Process, plant and machine operatives",199497
+E12000006,East of England,9,9. Elementary occupations,301704
+E12000007,London,1,"1. Managers, directors and senior officials",571617
+E12000007,London,2,2. Professional occupations,1023866
+E12000007,London,3,3. Associate professional and technical occupations,777429
+E12000007,London,4,4. Administrative and secretarial occupations,545815
+E12000007,London,5,5. Skilled trades occupations,350263
+E12000007,London,6,"6. Caring, leisure and other service occupations",328416
+E12000007,London,7,7. Sales and customer service occupations,305235
+E12000007,London,8,"8. Process, plant and machine operatives",207375
+E12000007,London,9,9. Elementary occupations,390465
+E12000008,South East,1,"1. Managers, directors and senior officials",470721
+E12000008,South East,2,2. Professional occupations,746300
+E12000008,South East,3,3. Associate professional and technical occupations,540493
+E12000008,South East,4,4. Administrative and secretarial occupations,458338
+E12000008,South East,5,5. Skilled trades occupations,469447
+E12000008,South East,6,"6. Caring, leisure and other service occupations",392810
+E12000008,South East,7,7. Sales and customer service occupations,336244
+E12000008,South East,8,"8. Process, plant and machine operatives",237206
+E12000008,South East,9,9. Elementary occupations,411791
+E12000009,South West,1,"1. Managers, directors and senior officials",275156
+E12000009,South West,2,2. Professional occupations,413361
+E12000009,South West,3,3. Associate professional and technical occupations,306639
+E12000009,South West,4,4. Administrative and secretarial occupations,279717
+E12000009,South West,5,5. Skilled trades occupations,341157
+E12000009,South West,6,"6. Caring, leisure and other service occupations",249237
+E12000009,South West,7,7. Sales and customer service occupations,215166
+E12000009,South West,8,"8. Process, plant and machine operatives",170842
+E12000009,South West,9,9. Elementary occupations,282316
+W92000004,Wales,1,"1. Managers, directors and senior officials",121812
+W92000004,Wales,2,2. Professional occupations,206904
+W92000004,Wales,3,3. Associate professional and technical occupations,139877
+W92000004,Wales,4,4. Administrative and secretarial occupations,148077
+W92000004,Wales,5,5. Skilled trades occupations,180679
+W92000004,Wales,6,"6. Caring, leisure and other service occupations",140524
+W92000004,Wales,7,7. Sales and customer service occupations,120351
+W92000004,Wales,8,"8. Process, plant and machine operatives",108278
+W92000004,Wales,9,9. Elementary occupations,159862
