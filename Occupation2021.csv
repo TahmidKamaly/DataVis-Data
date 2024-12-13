@@ -1,0 +1,91 @@
+Regions Code,Regions,Occupation (current) (10 categories) Code,Occupation (current) (10 categories),Observation,Year
+E12000001,North East,1,"1. Managers, directors and senior officials",112546,2021
+E12000001,North East,2,2. Professional occupations,207319,2021
+E12000001,North East,3,3. Associate professional and technical occupations,138466,2021
+E12000001,North East,4,4. Administrative and secretarial occupations,111276,2021
+E12000001,North East,5,5. Skilled trades occupations,120941,2021
+E12000001,North East,6,"6. Caring, leisure and other service occupations",120123,2021
+E12000001,North East,7,7. Sales and customer service occupations,107476,2021
+E12000001,North East,8,"8. Process, plant and machine operatives",93930,2021
+E12000001,North East,9,9. Elementary occupations,125979,2021
+E12000002,North West,1,"1. Managers, directors and senior officials",381837,2021
+E12000002,North West,2,2. Professional occupations,642943,2021
+E12000002,North West,3,3. Associate professional and technical occupations,422028,2021
+E12000002,North West,4,4. Administrative and secretarial occupations,323044,2021
+E12000002,North West,5,5. Skilled trades occupations,334817,2021
+E12000002,North West,6,"6. Caring, leisure and other service occupations",334929,2021
+E12000002,North West,7,7. Sales and customer service occupations,281995,2021
+E12000002,North West,8,"8. Process, plant and machine operatives",253570,2021
+E12000002,North West,9,9. Elementary occupations,366583,2021
+E12000003,Yorkshire and The Humber,1,"1. Managers, directors and senior officials",275517,2021
+E12000003,Yorkshire and The Humber,2,2. Professional occupations,445150,2021
+E12000003,Yorkshire and The Humber,3,3. Associate professional and technical occupations,302214,2021
+E12000003,Yorkshire and The Humber,4,4. Administrative and secretarial occupations,222600,2021
+E12000003,Yorkshire and The Humber,5,5. Skilled trades occupations,272789,2021
+E12000003,Yorkshire and The Humber,6,"6. Caring, leisure and other service occupations",239674,2021
+E12000003,Yorkshire and The Humber,7,7. Sales and customer service occupations,204822,2021
+E12000003,Yorkshire and The Humber,8,"8. Process, plant and machine operatives",207067,2021
+E12000003,Yorkshire and The Humber,9,9. Elementary occupations,291535,2021
+E12000004,East Midlands,1,"1. Managers, directors and senior officials",272040,2021
+E12000004,East Midlands,2,2. Professional occupations,397272,2021
+E12000004,East Midlands,3,3. Associate professional and technical occupations,271177,2021
+E12000004,East Midlands,4,4. Administrative and secretarial occupations,206288,2021
+E12000004,East Midlands,5,5. Skilled trades occupations,246106,2021
+E12000004,East Midlands,6,"6. Caring, leisure and other service occupations",215486,2021
+E12000004,East Midlands,7,7. Sales and customer service occupations,174907,2021
+E12000004,East Midlands,8,"8. Process, plant and machine operatives",201645,2021
+E12000004,East Midlands,9,9. Elementary occupations,287403,2021
+E12000005,West Midlands,1,"1. Managers, directors and senior officials",304067,2021
+E12000005,West Midlands,2,2. Professional occupations,484581,2021
+E12000005,West Midlands,3,3. Associate professional and technical occupations,311517,2021
+E12000005,West Midlands,4,4. Administrative and secretarial occupations,247300,2021
+E12000005,West Midlands,5,5. Skilled trades occupations,283488,2021
+E12000005,West Midlands,6,"6. Caring, leisure and other service occupations",252225,2021
+E12000005,West Midlands,7,7. Sales and customer service occupations,206242,2021
+E12000005,West Midlands,8,"8. Process, plant and machine operatives",225733,2021
+E12000005,West Midlands,9,9. Elementary occupations,323736,2021
+E12000006,East of England,1,"1. Managers, directors and senior officials",413913,2021
+E12000006,East of England,2,2. Professional occupations,593363,2021
+E12000006,East of England,3,3. Associate professional and technical occupations,403020,2021
+E12000006,East of England,4,4. Administrative and secretarial occupations,297310,2021
+E12000006,East of England,5,5. Skilled trades occupations,323622,2021
+E12000006,East of England,6,"6. Caring, leisure and other service occupations",274802,2021
+E12000006,East of England,7,7. Sales and customer service occupations,212902,2021
+E12000006,East of England,8,"8. Process, plant and machine operatives",209244,2021
+E12000006,East of England,9,9. Elementary occupations,300465,2021
+E12000007,London,1,"1. Managers, directors and senior officials",634405,2021
+E12000007,London,2,2. Professional occupations,1123398,2021
+E12000007,London,3,3. Associate professional and technical occupations,668876,2021
+E12000007,London,4,4. Administrative and secretarial occupations,370335,2021
+E12000007,London,5,5. Skilled trades occupations,328042,2021
+E12000007,London,6,"6. Caring, leisure and other service occupations",336092,2021
+E12000007,London,7,7. Sales and customer service occupations,276860,2021
+E12000007,London,8,"8. Process, plant and machine operatives",219351,2021
+E12000007,London,9,9. Elementary occupations,402718,2021
+E12000008,South East,1,"1. Managers, directors and senior officials",665423,2021
+E12000008,South East,2,2. Professional occupations,948916,2021
+E12000008,South East,3,3. Associate professional and technical occupations,637552,2021
+E12000008,South East,4,4. Administrative and secretarial occupations,418153,2021
+E12000008,South East,5,5. Skilled trades occupations,447317,2021
+E12000008,South East,6,"6. Caring, leisure and other service occupations",406891,2021
+E12000008,South East,7,7. Sales and customer service occupations,304995,2021
+E12000008,South East,8,"8. Process, plant and machine operatives",248363,2021
+E12000008,South East,9,9. Elementary occupations,394167,2021
+E12000009,South West,1,"1. Managers, directors and senior officials",344168,2021
+E12000009,South West,2,2. Professional occupations,513706,2021
+E12000009,South West,3,3. Associate professional and technical occupations,344899,2021
+E12000009,South West,4,4. Administrative and secretarial occupations,250257,2021
+E12000009,South West,5,5. Skilled trades occupations,326017,2021
+E12000009,South West,6,"6. Caring, leisure and other service occupations",266925,2021
+E12000009,South West,7,7. Sales and customer service occupations,202354,2021
+E12000009,South West,8,"8. Process, plant and machine operatives",173764,2021
+E12000009,South West,9,9. Elementary occupations,270244,2021
+W92000004,Wales,1,"1. Managers, directors and senior officials",143938,2021
+W92000004,Wales,2,2. Professional occupations,249466,2021
+W92000004,Wales,3,3. Associate professional and technical occupations,161273,2021
+W92000004,Wales,4,4. Administrative and secretarial occupations,128116,2021
+W92000004,Wales,5,5. Skilled trades occupations,166613,2021
+W92000004,Wales,6,"6. Caring, leisure and other service occupations",153029,2021
+W92000004,Wales,7,7. Sales and customer service occupations,114559,2021
+W92000004,Wales,8,"8. Process, plant and machine operatives",107475,2021
+W92000004,Wales,9,9. Elementary occupations,143982,2021
