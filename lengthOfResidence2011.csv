@@ -1,0 +1,51 @@
+Regions Code,Regions,Length of residence in the UK (6 categories) Code,Length of residence in the UK (6 categories),Observation
+E12000001,North East,1,Born in the UK,2468313
+E12000001,North East,2,10 years or more,22956
+E12000001,North East,3,"5 years or more, but less than 10 years",22436
+E12000001,North East,4,"2 years or more, but less than 5 years",26322
+E12000001,North East,5,Less than 2 years,56859
+E12000002,North West,1,Born in the UK,6474945
+E12000002,North West,2,10 years or more,74516
+E12000002,North West,3,"5 years or more, but less than 10 years",95147
+E12000002,North West,4,"2 years or more, but less than 5 years",122395
+E12000002,North West,5,Less than 2 years,285174
+E12000003,Yorkshire and The Humber,1,Born in the UK,4819042
+E12000003,Yorkshire and The Humber,2,10 years or more,66394
+E12000003,Yorkshire and The Humber,3,"5 years or more, but less than 10 years",82195
+E12000003,Yorkshire and The Humber,4,"2 years or more, but less than 5 years",99561
+E12000003,Yorkshire and The Humber,5,Less than 2 years,216541
+E12000004,East Midlands,1,Born in the UK,4085011
+E12000004,East Midlands,2,10 years or more,56340
+E12000004,East Midlands,3,"5 years or more, but less than 10 years",74550
+E12000004,East Midlands,4,"2 years or more, but less than 5 years",95252
+E12000004,East Midlands,5,Less than 2 years,222069
+E12000005,West Midlands,1,Born in the UK,4971874
+E12000005,West Midlands,2,10 years or more,70911
+E12000005,West Midlands,3,"5 years or more, but less than 10 years",91899
+E12000005,West Midlands,4,"2 years or more, but less than 5 years",128691
+E12000005,West Midlands,5,Less than 2 years,338472
+E12000006,East of England,1,Born in the UK,5204750
+E12000006,East of England,2,10 years or more,85547
+E12000006,East of England,3,"5 years or more, but less than 10 years",106825
+E12000006,East of England,4,"2 years or more, but less than 5 years",133940
+E12000006,East of England,5,Less than 2 years,315903
+E12000007,London,1,Born in the UK,5175677
+E12000007,London,2,10 years or more,368529
+E12000007,London,3,"5 years or more, but less than 10 years",458019
+E12000007,London,4,"2 years or more, but less than 5 years",620600
+E12000007,London,5,Less than 2 years,1551116
+E12000008,South East,1,Born in the UK,7591430
+E12000008,South East,2,10 years or more,130673
+E12000008,South East,3,"5 years or more, but less than 10 years",170271
+E12000008,South East,4,"2 years or more, but less than 5 years",213325
+E12000008,South East,5,Less than 2 years,529051
+E12000009,South West,1,Born in the UK,4884275
+E12000009,South West,2,10 years or more,52159
+E12000009,South West,3,"5 years or more, but less than 10 years",68965
+E12000009,South West,4,"2 years or more, but less than 5 years",81781
+E12000009,South West,5,Less than 2 years,201755
+W92000004,Wales,1,Born in the UK,2895585
+W92000004,Wales,2,10 years or more,27456
+W92000004,Wales,3,"5 years or more, but less than 10 years",29403
+W92000004,Wales,4,"2 years or more, but less than 5 years",35486
+W92000004,Wales,5,Less than 2 years,75526
