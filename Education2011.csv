@@ -1,0 +1,71 @@
+Regions Code,Regions,Highest level of qualification (8 categories) Code,Highest level of qualification (8 categories),Observation
+E12000001,North East,0,No qualifications,565208
+E12000001,North East,1,Level 1 and entry level qualifications,291852
+E12000001,North East,2,Level 2 qualifications ,335926
+E12000001,North East,3,Apprenticeship,101328
+E12000001,North East,4,Level 3 qualifications,279693
+E12000001,North East,5,Level 4 qualifications or above,473382
+E12000001,North East,6,Other qualifications,87060
+E12000002,North West,0,No qualifications,1419620
+E12000002,North West,1,Level 1 and entry level qualifications,777561
+E12000002,North West,2,Level 2 qualifications,905338
+E12000002,North West,3,Apprenticeship,225633
+E12000002,North West,4,Level 3 qualifications,740829
+E12000002,North West,5,Level 4 qualifications or above,1399038
+E12000002,North West,6,Other qualifications,259610
+E12000003,Yorkshire and The Humber,0,No qualifications,1104692
+E12000003,Yorkshire and The Humber,1,Level 1 and entry level qualifications,581029
+E12000003,Yorkshire and The Humber,2,Level 2 qualifications,662318
+E12000003,Yorkshire and The Humber,3,Apprenticeship,181690
+E12000003,Yorkshire and The Humber,4,Level 3 qualifications,547480
+E12000003,Yorkshire and The Humber,5,Level 4 qualifications or above,998718
+E12000003,Yorkshire and The Humber,6,Other qualifications,210014
+E12000004,East Midlands,0,No qualifications,914014
+E12000004,East Midlands,1,Level 1 and entry level qualifications,512492
+E12000004,East Midlands,2,Level 2 qualifications,575351
+E12000004,East Midlands,3,Apprenticeship,149078
+E12000004,East Midlands,4,Level 3 qualifications,477203
+E12000004,East Midlands,5,Level 4 qualifications or above,871702
+E12000004,East Midlands,6,Other qualifications,194927
+E12000005,West Midlands,0,No qualifications,1196794
+E12000005,West Midlands,1,Level 1 and entry level qualifications,616225
+E12000005,West Midlands,2,Level 2 qualifications,695544
+E12000005,West Midlands,3,Apprenticeship,150353
+E12000005,West Midlands,4,Level 3 qualifications,553600
+E12000005,West Midlands,5,Level 4 qualifications or above,1050404
+E12000005,West Midlands,6,Other qualifications,244485
+E12000006,East of England,0,No qualifications,1067449
+E12000006,East of England,1,Level 1 and entry level qualifications,693576
+E12000006,East of England,2,Level 2 qualifications,769520
+E12000006,East of England,3,Apprenticeship,177366
+E12000006,East of England,4,Level 3 qualifications,557318
+E12000006,East of England,5,Level 4 qualifications or above,1218862
+E12000006,East of England,6,Other qualifications,254242
+E12000007,London,0,No qualifications,1152517
+E12000007,London,1,Level 1 and entry level qualifications,702687
+E12000007,London,2,Level 2 qualifications,775928
+E12000007,London,3,Apprenticeship,107665
+E12000007,London,4,Level 3 qualifications,685508
+E12000007,London,5,Level 4 qualifications or above,2470225
+E12000007,London,6,Other qualifications,654643
+E12000008,South East,0,No qualifications,1333955
+E12000008,South East,1,Level 1 and entry level qualifications,946056
+E12000008,South East,2,Level 2 qualifications,1110706
+E12000008,South East,3,Apprenticeship,253423
+E12000008,South East,4,Level 3 qualifications,892915
+E12000008,South East,5,Level 4 qualifications or above,2093693
+E12000008,South East,6,Other qualifications,361918
+E12000009,South West,0,No qualifications,902561
+E12000009,South West,1,Level 1 and entry level qualifications,592963
+E12000009,South West,2,Level 2 qualifications,713983
+E12000009,South West,3,Apprenticeship,186398
+E12000009,South West,4,Level 3 qualifications,575085
+E12000009,South West,5,Level 4 qualifications or above,1193337
+E12000009,South West,6,Other qualifications,194930
+W92000004,Wales,0,No qualifications,650517
+W92000004,Wales,1,Level 1 and entry level qualifications,332943
+W92000004,Wales,2,Level 2 qualifications,393819
+W92000004,Wales,3,Apprenticeship,98843
+W92000004,Wales,4,Level 3 qualifications,308171
+W92000004,Wales,5,Level 4 qualifications or above,614116
+W92000004,Wales,6,Other qualifications,108751
